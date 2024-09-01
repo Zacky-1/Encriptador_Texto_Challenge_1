@@ -25,7 +25,7 @@ header{
 .contenedor_principal{
     padding: 10% 2% 2% 2%;  
     display: flex;
-    justify-content: space-between;
+    gap: 10px;
 }
 
 
